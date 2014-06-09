@@ -1,0 +1,17 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="397963719"/>
+    <file name="master_______-a.css" crc="3788849047" ref="index"/>
+    <file name="index.css" crc="61877793" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="главная-векторный смарт-объект.png" crc="101828197" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3990439166" mt="1402331255183" redirect="true"/>
+</manifest>
