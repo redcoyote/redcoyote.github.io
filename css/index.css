@@ -15,12 +15,12 @@
 #page_position_content
 {
 	margin-top: 65px;
-	margin-bottom: 4029px;
+	margin-bottom: 3758px;
 }
 
 #u390
 {
-	z-index: 40;
+	z-index: 41;
 	width: 912px;
 	top: 0px;
 	left: 24px;
@@ -33,7 +33,7 @@
 
 #u615
 {
-	z-index: 42;
+	z-index: 43;
 	width: 30px;
 	top: 6px;
 	left: 37px;
@@ -41,7 +41,7 @@
 
 #u435-4
 {
-	z-index: 48;
+	z-index: 49;
 	width: 109px;
 	min-height: 27px;
 	top: 10px;
@@ -50,7 +50,7 @@
 
 #u392-4
 {
-	z-index: 44;
+	z-index: 45;
 	width: 68px;
 	min-height: 27px;
 	top: 10px;
@@ -59,7 +59,7 @@
 
 #u408-4
 {
-	z-index: 52;
+	z-index: 53;
 	width: 73px;
 	min-height: 27px;
 	top: 10px;
@@ -68,7 +68,7 @@
 
 #u410-4
 {
-	z-index: 60;
+	z-index: 61;
 	width: 72px;
 	min-height: 27px;
 	top: 10px;
@@ -77,18 +77,11 @@
 
 #u412-4
 {
-	z-index: 56;
+	z-index: 57;
 	width: 72px;
 	min-height: 27px;
 	top: 10px;
 	left: 805px;
-}
-
-#pu643
-{
-	width: 0.01px;
-	left: -100px;
-	position: relative;
 }
 
 #u643
@@ -114,7 +107,7 @@
 
 #u629
 {
-	z-index: 12;
+	z-index: 13;
 	width: 319px;
 	background-color: transparent;
 	position: relative;
@@ -132,7 +125,7 @@
 
 #u635
 {
-	z-index: 14;
+	z-index: 15;
 	width: 319px;
 	background-color: transparent;
 	position: relative;
@@ -166,7 +159,7 @@
 
 #u467
 {
-	z-index: 16;
+	z-index: 17;
 	width: 399px;
 	position: relative;
 	margin-right: -10000px;
@@ -191,7 +184,7 @@
 
 #u487
 {
-	z-index: 18;
+	z-index: 19;
 	width: 201px;
 	position: relative;
 	margin-right: -10000px;
@@ -216,7 +209,7 @@
 
 #u472
 {
-	z-index: 20;
+	z-index: 21;
 	width: 297px;
 	position: relative;
 	margin-right: -10000px;
@@ -240,7 +233,7 @@
 
 #u475
 {
-	z-index: 22;
+	z-index: 23;
 	width: 410px;
 	position: relative;
 	margin-right: -10000px;
@@ -265,7 +258,7 @@
 
 #u461-16
 {
-	z-index: 24;
+	z-index: 25;
 	width: 637px;
 	min-height: 199px;
 	position: relative;
@@ -321,7 +314,7 @@
 
 #u481-6
 {
-	z-index: 64;
+	z-index: 65;
 	width: 293px;
 	min-height: 63px;
 	color: #FFFFFF;
@@ -344,105 +337,171 @@
 	line-height: 43px;
 }
 
-#pu517
-{
-	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 97px;
-	position: relative;
-}
-
-#u517
+#u762
 {
 	z-index: 3;
-	width: 920px;
+	width: 1160px;
+	height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
 	position: relative;
-	margin-right: -10000px;
+	left: -100px;
+	margin-top: 115px;
 }
 
-#u522
-{
-	z-index: 9;
-	width: 673px;
-	height: 240px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/btn_hovel-u522-fr.png") no-repeat left top;
-	background-size: contain !important;
-}
-
-#u522:hover
-{
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/btn_hovel-u522-r-fr.png") no-repeat left top;
-	background-size: contain !important;
-}
-
-#u658
-{
-	z-index: 5;
-	width: 920px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u661
-{
-	z-index: 10;
-	width: 673px;
-	height: 240px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/btn_hovel-u522-fr.png") no-repeat left top;
-	background-size: contain !important;
-}
-
-#u522:active,#u661:hover
-{
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/btn_hovel-u522-r-fr.png") no-repeat left top;
-	background-size: contain !important;
-}
-
-#pu658,#pu690
-{
-	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 55px;
-	position: relative;
-}
-
-#u690
+#u713
 {
 	z-index: 7;
-	width: 920px;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #FF8960 url("../images/%d0%bf%d1%80%d0%b5%d0%b2%d1%8c%d1%8e%20%d1%88%d1%80%d0%b8%d1%84%d1%82-u713-fr.png") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u785
+{
+	z-index: 8;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u693
+#u785:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.1);
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255, 255, 255, 0.1);
+}
+
+#u765
+{
+	z-index: 4;
+	width: 1160px;
+	height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	left: -100px;
+}
+
+#pu748
+{
+	width: 0.01px;
+	left: -100px;
+	top: -2px;
+	margin-bottom: -2px;
+	position: relative;
+}
+
+#u748
+{
+	z-index: 9;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	background: #FF8960 url("../images/%d0%bf%d1%80%d0%b5%d0%b2%d1%8c%d1%8e%20uphire-u748-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u793
 {
 	z-index: 11;
-	width: 673px;
-	height: 240px;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/btn_hovel-u522-fr.png") no-repeat left top;
-	background-size: contain !important;
 }
 
-#u661:active,#u693:hover
+#u793:hover
 {
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.1);
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/btn_hovel-u522-r-fr.png") no-repeat left top;
-	background-size: contain !important;
+	-pie-background: rgba(255, 255, 255, 0.1);
 }
 
-#u693:active
+#u767
 {
+	z-index: 5;
+	width: 1160px;
+	height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	left: -100px;
+	margin-top: 1px;
+}
+
+#pu643,#pu713,#pu776
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#u776
+{
+	z-index: 10;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	background: #FF8960 url("../images/%d0%bf%d1%80%d0%b5%d0%b2%d1%8c%d1%8e%20%d1%81%d1%82%d0%b8%d1%80%d0%b0%d0%bb%d0%ba%d0%b0-u776-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u795
+{
+	z-index: 12;
+	width: 1160px;
+	height: 350px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u795:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.1);
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/btn_hovel-u522-r-fr.png") no-repeat left top;
-	background-size: contain !important;
+	-pie-background: rgba(255, 255, 255, 0.1);
+}
+
+#u777
+{
+	z-index: 6;
+	width: 1160px;
+	height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+	left: -100px;
 }
 
 #page .verticalspacer

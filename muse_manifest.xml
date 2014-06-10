@@ -5,7 +5,7 @@
     <file name="contacts.css" crc="409563628" ref="contacts"/>
     <file name="hovel.css" crc="3832553218" ref="hovel"/>
     <file name="about-me.css" crc="3967967912" ref="about-me"/>
-    <file name="index.css" crc="4086706205" ref="index"/>
+    <file name="index.css" crc="16014065" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hovel:about-me:contacts"/>
@@ -13,6 +13,7 @@
     <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:hovel:about-me:contacts"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index:hovel:about-me:contacts"/>
   </folder>
   <folder name="images">
@@ -21,14 +22,14 @@
     <file name="logo2.png" crc="4070698359" ref="index:hovel:about-me:contacts"/>
     <file name="logo3.png" crc="504537093" ref="index"/>
     <file name="полоска.jpg" crc="3846046920" ref="index:about-me:contacts"/>
-    <file name="for projects.png" crc="413832178" ref="index"/>
-    <file name="btn_hovel-u522-fr.png" crc="211385277" ref="index"/>
-    <file name="btn_hovel-u522-r-fr.png" crc="421083442" ref="index"/>
+    <file name="превью шрифт-u713-fr.png" crc="506675166" ref="index"/>
+    <file name="превью uphire-u748-fr.jpg" crc="263732480" ref="index"/>
+    <file name="превью стиралка-u776-fr.jpg" crc="99779424" ref="index"/>
     <file name="шрифт размещение.png" crc="362385996" ref="hovel"/>
     <file name="шрифт-слой 1.png" crc="4161052938" ref="hovel"/>
   </folder>
-  <file name="index.html" crc="3827465253" mt="1402408059842" redirect="true"/>
-  <file name="hovel.html" crc="4179038682" mt="1402405572230" redirect="true"/>
-  <file name="about-me.html" crc="471836288" mt="1402408327383" redirect="true"/>
-  <file name="contacts.html" crc="333545276" mt="1402408773042" redirect="true"/>
+  <file name="index.html" crc="27429907" mt="1402431876216" redirect="true"/>
+  <file name="hovel.html" crc="3910569456" mt="1402431372074" redirect="true"/>
+  <file name="about-me.html" crc="3879728963" mt="1402431372077" redirect="true"/>
+  <file name="contacts.html" crc="58152188" mt="1402431372081" redirect="true"/>
 </manifest>
