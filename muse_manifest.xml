@@ -1,35 +1,44 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4149361676"/>
-    <file name="master_______-a.css" crc="3952771156" ref="contacts:hovel:about-me:index"/>
-    <file name="contacts.css" crc="409563628" ref="contacts"/>
-    <file name="hovel.css" crc="3832553218" ref="hovel"/>
+    <file name="master_______-a.css" crc="3952771156" ref="uphire:about-me:index:contacts:something_old:hovel"/>
+    <file name="uphire.css" crc="4038215250" ref="uphire"/>
     <file name="about-me.css" crc="3967967912" ref="about-me"/>
     <file name="index.css" crc="16014065" ref="index"/>
+    <file name="contacts.css" crc="409563628" ref="contacts"/>
+    <file name="something_old.css" crc="168278659" ref="something_old"/>
+    <file name="hovel.css" crc="214206796" ref="hovel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hovel:about-me:contacts"/>
-    <file name="museutils.js" crc="4291592202" ref="index:hovel:about-me:contacts"/>
-    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:hovel:about-me:contacts"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="museutils.js" crc="4291592202" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:hovel:about-me:contacts:uphire:something_old"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:hovel:about-me:contacts"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:hovel:about-me:contacts:uphire:something_old"/>
   </folder>
   <folder name="images">
-    <file name="stardust.jpg" crc="4280287584" ref="index:about-me:contacts"/>
-    <file name="top_menu.png" crc="30518199" ref="index:hovel:about-me:contacts"/>
-    <file name="logo2.png" crc="4070698359" ref="index:hovel:about-me:contacts"/>
+    <file name="stardust.jpg" crc="4280287584" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="top_menu.png" crc="30518199" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="logo2.png" crc="4070698359" ref="index:hovel:about-me:contacts:uphire:something_old"/>
     <file name="logo3.png" crc="504537093" ref="index"/>
     <file name="полоска.jpg" crc="3846046920" ref="index:about-me:contacts"/>
     <file name="превью шрифт-u713-fr.png" crc="506675166" ref="index"/>
     <file name="превью uphire-u748-fr.jpg" crc="263732480" ref="index"/>
     <file name="превью стиралка-u776-fr.jpg" crc="99779424" ref="index"/>
-    <file name="шрифт размещение.png" crc="362385996" ref="hovel"/>
     <file name="шрифт-слой 1.png" crc="4161052938" ref="hovel"/>
+    <file name="animation3.gif" crc="4233804389" ref="hovel"/>
+    <file name="uphire размещение.jpg" crc="325766490" ref="uphire"/>
+    <file name="animation2.gif" crc="3860889907" ref="uphire"/>
+    <file name="animation1.gif" crc="207549964" ref="uphire"/>
+    <file name="top_menu2.png" crc="267253844" ref="uphire:something_old"/>
+    <file name="s_o размещение.jpg" crc="355983847" ref="something_old"/>
   </folder>
-  <file name="index.html" crc="27429907" mt="1402431876216" redirect="true"/>
-  <file name="hovel.html" crc="3910569456" mt="1402431372074" redirect="true"/>
+  <file name="index.html" crc="20897623" mt="1402437381604" redirect="true"/>
+  <file name="hovel.html" crc="3941948753" mt="1402433612191" redirect="true"/>
   <file name="about-me.html" crc="3879728963" mt="1402431372077" redirect="true"/>
   <file name="contacts.html" crc="58152188" mt="1402431372081" redirect="true"/>
+  <file name="uphire.html" crc="55031095" mt="1402437506460" redirect="true"/>
+  <file name="something_old.html" crc="4130972928" mt="1402437559890" redirect="true"/>
 </manifest>

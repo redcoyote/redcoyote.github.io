@@ -1,0 +1,113 @@
+.html
+{
+	background: #7F7F7F url("../images/stardust.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 4061px;
+	padding-bottom: 1537px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u857
+{
+	z-index: 2;
+	width: 920px;
+	position: relative;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#pu872
+{
+	width: 0.01px;
+	padding-bottom: 37px;
+	position: relative;
+	margin-right: -10000px;
+	left: 24px;
+}
+
+#u872
+{
+	z-index: 4;
+	width: 907px;
+	position: fixed;
+	top: 0px;
+	left: 26px;
+}
+
+#u390
+{
+	z-index: 6;
+	width: 912px;
+	top: 0px;
+	left: 24px;
+}
+
+#u390_img
+{
+	padding-right: 1px;
+}
+
+#u615
+{
+	z-index: 8;
+	width: 30px;
+	top: 6px;
+	left: 37px;
+}
+
+#u435-4
+{
+	z-index: 14;
+	width: 109px;
+	min-height: 27px;
+	top: 10px;
+	left: 71px;
+}
+
+#u392-4
+{
+	z-index: 10;
+	width: 68px;
+	min-height: 27px;
+	top: 10px;
+	left: 505px;
+}
+
+#u408-4
+{
+	z-index: 18;
+	width: 73px;
+	min-height: 27px;
+	top: 10px;
+	left: 602px;
+}
+
+#u410-4
+{
+	z-index: 26;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 704px;
+}
+
+#u412-4
+{
+	z-index: 22;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 805px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,23 +1,61 @@
 .html
 {
-	background: #FFFFFF url("../images/%d1%88%d1%80%d0%b8%d1%84%d1%82%20%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5.png") repeat left top scroll;
+	background: #FFFFFF url("../images/stardust.jpg") repeat left top scroll;
 }
 
 #page
 {
 	z-index: 1;
-	width: 920px;
-	min-height: 5581px;
-	padding-left: 20px;
-	padding-top: 38px;
-	padding-right: 20px;
+	width: 960px;
+	min-height: 5619px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u390
+#pu150
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#u150
+{
+	z-index: 2;
+	width: 920px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u150_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u799
 {
 	z-index: 4;
+	width: 773px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3128px;
+	left: 75px;
+}
+
+#pu390
+{
+	width: 0.01px;
+	padding-bottom: 37px;
+	position: relative;
+	margin-right: -10000px;
+	left: 24px;
+}
+
+#u390
+{
+	z-index: 6;
 	width: 912px;
 	top: 0px;
 	left: 24px;
@@ -30,7 +68,7 @@
 
 #u615
 {
-	z-index: 6;
+	z-index: 8;
 	width: 30px;
 	top: 6px;
 	left: 37px;
@@ -38,7 +76,7 @@
 
 #u435-4
 {
-	z-index: 12;
+	z-index: 14;
 	width: 109px;
 	min-height: 27px;
 	top: 10px;
@@ -47,7 +85,7 @@
 
 #u392-4
 {
-	z-index: 8;
+	z-index: 10;
 	width: 68px;
 	min-height: 27px;
 	top: 10px;
@@ -56,7 +94,7 @@
 
 #u408-4
 {
-	z-index: 16;
+	z-index: 18;
 	width: 73px;
 	min-height: 27px;
 	top: 10px;
@@ -65,7 +103,7 @@
 
 #u410-4
 {
-	z-index: 24;
+	z-index: 26;
 	width: 72px;
 	min-height: 27px;
 	top: 10px;
@@ -74,24 +112,11 @@
 
 #u412-4
 {
-	z-index: 20;
+	z-index: 22;
 	width: 72px;
 	min-height: 27px;
 	top: 10px;
 	left: 805px;
-}
-
-#u150
-{
-	z-index: 2;
-	width: 920px;
-	position: relative;
-}
-
-#u150_img
-{
-	padding-right: 1px;
-	padding-bottom: 1px;
 }
 
 #page .verticalspacer
