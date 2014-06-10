@@ -1,0 +1,151 @@
+.html
+{
+	background: #7F7F7F url("../images/stardust.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 349px;
+	min-height: 99px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 134px 295px 5365px 316px;
+}
+
+#u390
+{
+	z-index: 11;
+	width: 912px;
+	top: 0px;
+	left: 24px;
+}
+
+#u390_img
+{
+	padding-right: 1px;
+}
+
+#u615
+{
+	z-index: 13;
+	width: 30px;
+	top: 6px;
+	left: 37px;
+}
+
+#u435-4
+{
+	z-index: 19;
+	width: 109px;
+	min-height: 27px;
+	top: 10px;
+	left: 71px;
+}
+
+#u392-4
+{
+	z-index: 15;
+	width: 68px;
+	min-height: 27px;
+	top: 10px;
+	left: 505px;
+}
+
+#u408-4
+{
+	z-index: 23;
+	width: 73px;
+	min-height: 27px;
+	top: 10px;
+	left: 602px;
+}
+
+#u410-4
+{
+	z-index: 31;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 704px;
+}
+
+#u412-4
+{
+	z-index: 27;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 805px;
+}
+
+#pu709
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#u709
+{
+	z-index: 2;
+	width: 119px;
+	position: relative;
+	margin-right: -10000px;
+	left: 28px;
+}
+
+#u709_clip
+{
+	overflow: hidden;
+	width: 119px;
+	height: 33px;
+}
+
+#u709_img
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin: -1px -245px -32px -295px;
+}
+
+#u708-7
+{
+	z-index: 4;
+	width: 349px;
+	min-height: 96px;
+	color: #FFFFFF;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u708-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u708-2
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u708,#u708-3
+{
+	line-height: 17px;
+}
+
+#u708-4
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
