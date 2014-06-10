@@ -1,0 +1,102 @@
+.html
+{
+	background: #FFFFFF url("../images/%d1%88%d1%80%d0%b8%d1%84%d1%82%20%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5.png") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 5581px;
+	padding-left: 20px;
+	padding-top: 38px;
+	padding-right: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u390
+{
+	z-index: 4;
+	width: 912px;
+	top: 0px;
+	left: 24px;
+}
+
+#u390_img
+{
+	padding-right: 1px;
+}
+
+#u435-4
+{
+	z-index: 14;
+	width: 109px;
+	min-height: 27px;
+	top: 10px;
+	left: 45px;
+}
+
+#u407-4
+{
+	z-index: 10;
+	width: 66px;
+	min-height: 27px;
+	top: 10px;
+	left: 407px;
+}
+
+#u392-4
+{
+	z-index: 6;
+	width: 68px;
+	min-height: 27px;
+	top: 10px;
+	left: 505px;
+}
+
+#u408-4
+{
+	z-index: 18;
+	width: 73px;
+	min-height: 27px;
+	top: 10px;
+	left: 602px;
+}
+
+#u410-4
+{
+	z-index: 26;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 704px;
+}
+
+#u412-4
+{
+	z-index: 22;
+	width: 72px;
+	min-height: 27px;
+	top: 10px;
+	left: 805px;
+}
+
+#u150
+{
+	z-index: 2;
+	width: 920px;
+	position: relative;
+}
+
+#u150_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
