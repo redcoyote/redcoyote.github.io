@@ -1,44 +1,59 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4149361676"/>
-    <file name="master_______-a.css" crc="3952771156" ref="uphire:about-me:index:contacts:something_old:hovel"/>
-    <file name="uphire.css" crc="4038215250" ref="uphire"/>
-    <file name="about-me.css" crc="3967967912" ref="about-me"/>
-    <file name="index.css" crc="16014065" ref="index"/>
-    <file name="contacts.css" crc="409563628" ref="contacts"/>
-    <file name="something_old.css" crc="168278659" ref="something_old"/>
-    <file name="hovel.css" crc="214206796" ref="hovel"/>
+    <file name="master_______-a.css" crc="4158075891" ref="index:something_old:uphire:hovel:contacts:about_me"/>
+    <file name="index.css" crc="4104254355" ref="index"/>
+    <file name="something_old.css" crc="3932357319" ref="something_old"/>
+    <file name="uphire.css" crc="3994424186" ref="uphire"/>
+    <file name="hovel.css" crc="205653067" ref="hovel"/>
+    <file name="contacts.css" crc="42673310" ref="contacts"/>
+    <file name="about_me.css" crc="213572198" ref="about_me"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hovel:about-me:contacts:uphire:something_old"/>
-    <file name="museutils.js" crc="4291592202" ref="index:hovel:about-me:contacts:uphire:something_old"/>
-    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:hovel:about-me:contacts:uphire:something_old"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="museutils.js" crc="4291592202" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:hovel:about_me:contacts:uphire:something_old"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:hovel:about_me:contacts:uphire:something_old"/>
   </folder>
   <folder name="images">
-    <file name="stardust.jpg" crc="4280287584" ref="index:hovel:about-me:contacts:uphire:something_old"/>
-    <file name="top_menu.png" crc="30518199" ref="index:hovel:about-me:contacts:uphire:something_old"/>
-    <file name="logo2.png" crc="4070698359" ref="index:hovel:about-me:contacts:uphire:something_old"/>
+    <file name="сергей-карась-favicon.ico" crc="333364273" ref="index"/>
+    <file name="stardust.jpg" crc="4280287584" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="top_menu.png" crc="30518199" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="logo2.png" crc="4070698359" ref="index:hovel:about_me:contacts:uphire:something_old"/>
     <file name="logo3.png" crc="504537093" ref="index"/>
-    <file name="полоска.jpg" crc="3846046920" ref="index:about-me:contacts"/>
-    <file name="превью шрифт-u713-fr.png" crc="506675166" ref="index"/>
-    <file name="превью uphire-u748-fr.jpg" crc="263732480" ref="index"/>
+    <file name="полоска.jpg" crc="203152725" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="превью шрифт-u713-fr.jpg" crc="163465014" ref="index"/>
+    <file name="превью uphire-u748-fr.jpg" crc="515293870" ref="index"/>
     <file name="превью стиралка-u776-fr.jpg" crc="99779424" ref="index"/>
-    <file name="шрифт-слой 1.png" crc="4161052938" ref="hovel"/>
+    <file name="exclusive_paper.jpg" crc="420114614" ref="index"/>
+    <file name="logo4.png" crc="208761032" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="be.png" crc="39043728" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="dr.png" crc="4113276225" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="mail.png" crc="4220065711" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="skype.png" crc="3824759091" ref="index:hovel:about_me:contacts:uphire:something_old"/>
+    <file name="сергей-карась-hovel-favicon.ico" crc="437186108" ref="hovel"/>
+    <file name="шрифт.jpg" crc="4014702001" ref="hovel"/>
     <file name="animation3.gif" crc="4233804389" ref="hovel"/>
-    <file name="uphire размещение.jpg" crc="325766490" ref="uphire"/>
+    <file name="сергей-карась-обо-мне-favicon.ico" crc="3914974504" ref="about_me"/>
+    <file name="диплом.png" crc="3866373064" ref="about_me"/>
+    <file name="чешский.jpg" crc="327940973" ref="about_me"/>
+    <file name="фото2222.jpg" crc="166402103" ref="about_me"/>
+    <file name="сергей-карась-контакты-favicon.ico" crc="3914974504" ref="contacts"/>
+    <file name="сергей-карась-uphire-favicon.ico" crc="3914974504" ref="uphire"/>
+    <file name="uphire размещение2.jpg" crc="3926437209" ref="uphire"/>
     <file name="animation2.gif" crc="3860889907" ref="uphire"/>
     <file name="animation1.gif" crc="207549964" ref="uphire"/>
     <file name="top_menu2.png" crc="267253844" ref="uphire:something_old"/>
-    <file name="s_o размещение.jpg" crc="355983847" ref="something_old"/>
+    <file name="сергей-карась-something-old-favicon.ico" crc="3914974504" ref="something_old"/>
+    <file name="s_o размещение2.jpg" crc="4231791285" ref="something_old"/>
   </folder>
-  <file name="index.html" crc="20897623" mt="1402437381604" redirect="true"/>
-  <file name="hovel.html" crc="3941948753" mt="1402433612191" redirect="true"/>
-  <file name="about-me.html" crc="3879728963" mt="1402431372077" redirect="true"/>
-  <file name="contacts.html" crc="58152188" mt="1402431372081" redirect="true"/>
-  <file name="uphire.html" crc="55031095" mt="1402437506460" redirect="true"/>
-  <file name="something_old.html" crc="4130972928" mt="1402437559890" redirect="true"/>
+  <file name="index.html" crc="495353296" mt="1402603125522" redirect="true"/>
+  <file name="hovel.html" crc="3966917529" mt="1402603125524" redirect="true"/>
+  <file name="about_me.html" crc="223717785" mt="1402603125526" redirect="true"/>
+  <file name="contacts.html" crc="153992084" mt="1402603125549" redirect="true"/>
+  <file name="uphire.html" crc="3842976966" mt="1402603125530" redirect="true"/>
+  <file name="something_old.html" crc="3985131870" mt="1402603125532" redirect="true"/>
 </manifest>

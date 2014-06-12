@@ -35,3 +35,46 @@
 	position: fixed;
 }
 
+#u935
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: #FFFFFF url("../images/exclusive_paper.jpg") repeat left top;
+}
+
+#u944-4
+{
+	text-align: left;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u1083_clip,#u1098_clip,#u1089_clip,#u1092_clip
+{
+	overflow: hidden;
+}
+
+#u1101-6
+{
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u946-4,#u951-4,#u948-4,#u952-4
+{
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u935_align_to_page,#u1083,#u1098,#u1089,#u1092,#u939,#u1102,#u1107,#u1112,#u1117
+{
+	position: relative;
+}
+
